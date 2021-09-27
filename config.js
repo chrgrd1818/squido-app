@@ -29,6 +29,8 @@ const config = {
         baseUrl: 'https://faq.squido.org',
         sourcesExt: 'markdown',
         summaryLength: 250,
+        sourceDir: 'source',
+        buildDir: 'docs',
         port: 4965,
         pagination: true,
         postPerPage: 8,
