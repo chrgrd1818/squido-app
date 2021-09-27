@@ -26,7 +26,7 @@ const config = {
         name: 'squido FAQ',
         description: 'An FAQ theme for squido',
         twitterHandle: '@c',
-        baseUrl: 'https://faq.squido.org',
+        baseUrl: 'https://chrgrd1818.github.io/squido-app/',
         sourcesExt: 'markdown',
         summaryLength: 250,
         sourceDir: 'source',
