@@ -1,5 +1,5 @@
 const config = {
-    xdevelopment: {
+    development: {
         name: 'squido FAQ',
         description: 'An FAQ theme for squido',
         twitterHandle: '@c',
@@ -22,11 +22,12 @@ const config = {
             }
         ]
     },
-    development: {
+    production: {
         name: 'squido FAQ',
         description: 'An FAQ theme for squido',
         twitterHandle: '@c',
-        baseUrl: 'https://chrgrd1818.github.io/squido-app',
+        //baseUrl: 'https://chrgrd1818.github.io/squido-app',
+        //pathPrefix: '/squido-app',
         sourcesExt: 'markdown',
         summaryLength: 250,
         sourceDir: 'source',
