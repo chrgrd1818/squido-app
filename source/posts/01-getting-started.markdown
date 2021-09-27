@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Getting started Yesaaaaa
 permalink: getting-started
 description: Getting started with squido
 date: '2021-03-10 01:59:00'
@@ -9,7 +9,7 @@ tags:
 
 <img src="https://raw.githubusercontent.com/mrvautin/squido/main/docs/images/squido.svg" width="200" height="200" alt="squido logo">
 
-## What is squido?
+## What is squido XXXx?
 
 `squido` is a dead simple static website builder which can be hosted anywhere for super fast websites and very little effort.
 
