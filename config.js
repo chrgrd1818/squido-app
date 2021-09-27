@@ -1,5 +1,5 @@
 const config = {
-    development: {
+    xdevelopment: {
         name: 'squido FAQ',
         description: 'An FAQ theme for squido',
         twitterHandle: '@c',
@@ -22,7 +22,7 @@ const config = {
             }
         ]
     },
-    production: {
+    development: {
         name: 'squido FAQ',
         description: 'An FAQ theme for squido',
         twitterHandle: '@c',
