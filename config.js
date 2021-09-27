@@ -31,7 +31,7 @@ const config = {
         sourcesExt: 'markdown',
         summaryLength: 250,
         sourceDir: 'source',
-        buildDir: 'docs',
+        buildDir: 'build',
         port: 4965,
         pagination: true,
         postPerPage: 8,
