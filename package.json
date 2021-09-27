@@ -6,6 +6,7 @@
     "build": "squido build -c"
   },
   "dependencies": {
+    "dotenv": "^10.0.0",
     "squido": "mrvautin/squido"
   }
 }
