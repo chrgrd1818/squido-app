@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chrgrd1818.github.io/squido-app/</id>
+    <id>https://chrgrd1818.github.io/squido-app</id>
     <title>squido FAQ</title>
-    <updated>2021-09-27T14:27:16.788Z</updated>
+    <updated>2021-09-27T14:33:34.225Z</updated>
     <generator>squido</generator>
-    <link rel="alternate" href="https://chrgrd1818.github.io/squido-app/"/>
-    <link rel="self" href="https://chrgrd1818.github.io/squido-app//atom"/>
+    <link rel="alternate" href="https://chrgrd1818.github.io/squido-app"/>
+    <link rel="self" href="https://chrgrd1818.github.io/squido-app/atom"/>
     <subtitle>An FAQ theme for squido</subtitle>
-    <icon>https://chrgrd1818.github.io/squido-app//favicon.png</icon>
+    <icon>https://chrgrd1818.github.io/squido-app/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Hello World ]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//hello-world</id>
-        <link href="https://chrgrd1818.github.io/squido-app//hello-world"/>
+        <id>https://chrgrd1818.github.io/squido-app/hello-world</id>
+        <link href="https://chrgrd1818.github.io/squido-app/hello-world"/>
         <updated>2021-09-26T18:59:00.000Z</updated>
         <summary type="html"><![CDATA[Hello World]]></summary>
         <content type="html"><![CDATA[<h1 id="e">E</h1>
@@ -36,8 +36,8 @@ ehfjkfkjafnkfc
     </entry>
     <entry>
         <title type="html"><![CDATA[Getting started Yesaaaaa]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//getting-started</id>
-        <link href="https://chrgrd1818.github.io/squido-app//getting-started"/>
+        <id>https://chrgrd1818.github.io/squido-app/getting-started</id>
+        <link href="https://chrgrd1818.github.io/squido-app/getting-started"/>
         <updated>2021-03-09T18:59:00.000Z</updated>
         <summary type="html"><![CDATA[Getting started with squido]]></summary>
         <content type="html"><![CDATA[<img src="https://raw.githubusercontent.com/mrvautin/squido/main/docs/images/squido.svg" width="200" height="200" alt="squido logo">
@@ -162,8 +162,8 @@ Warning: This will overwrite any existing content you've created
     </entry>
     <entry>
         <title type="html"><![CDATA[Structure]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//structure</id>
-        <link href="https://chrgrd1818.github.io/squido-app//structure"/>
+        <id>https://chrgrd1818.github.io/squido-app/structure</id>
+        <link href="https://chrgrd1818.github.io/squido-app/structure"/>
         <updated>2021-03-08T18:58:00.000Z</updated>
         <summary type="html"><![CDATA[Getting started with the squido structure]]></summary>
         <content type="html"><![CDATA[<p>You can start by grabbing everything in the <code>/source</code> directory of <a href="https://github.com/mrvautin/squido/tree/main/source">here</a>.</p>
@@ -202,8 +202,8 @@ Warning: This will overwrite any existing content you've created
     </entry>
     <entry>
         <title type="html"><![CDATA[Usage / Commands]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//usage-commands</id>
-        <link href="https://chrgrd1818.github.io/squido-app//usage-commands"/>
+        <id>https://chrgrd1818.github.io/squido-app/usage-commands</id>
+        <link href="https://chrgrd1818.github.io/squido-app/usage-commands"/>
         <updated>2021-03-07T18:57:00.000Z</updated>
         <summary type="html"><![CDATA[Getting started with the squido commands]]></summary>
         <content type="html"><![CDATA[<p>The CLI comes with a few commands.</p>
@@ -277,8 +277,8 @@ Options:
     </entry>
     <entry>
         <title type="html"><![CDATA[Configuration]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//configuration</id>
-        <link href="https://chrgrd1818.github.io/squido-app//configuration"/>
+        <id>https://chrgrd1818.github.io/squido-app/configuration</id>
+        <link href="https://chrgrd1818.github.io/squido-app/configuration"/>
         <updated>2021-03-06T18:56:00.000Z</updated>
         <summary type="html"><![CDATA[Getting started with the squido configuration]]></summary>
         <content type="html"><![CDATA[<p>An example config can be seen below. You can see that you can specify different values for different environments you run. <code>development</code> and <code>production</code> are examples but they need to match up with whatever <code>NODE_ENV</code> is set. If one is not set, the default is <code>development</code>.</p>
@@ -331,8 +331,8 @@ Options:
     </entry>
     <entry>
         <title type="html"><![CDATA[Posts]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//posts</id>
-        <link href="https://chrgrd1818.github.io/squido-app//posts"/>
+        <id>https://chrgrd1818.github.io/squido-app/posts</id>
+        <link href="https://chrgrd1818.github.io/squido-app/posts"/>
         <updated>2021-03-05T18:55:00.000Z</updated>
         <summary type="html"><![CDATA[Getting started with the squido post structure]]></summary>
         <content type="html"><![CDATA[<p>Posts are essentially pages or blog posts or whatever you like. The content of the post/page is contained in markdown files within the <code>/source/posts</code> folder. The post markdown or contents is rendered using the <code>post.hbs</code> template file. You can edit this any which way your want. See <a href="/templates/">templates</a> for more information.</p>
@@ -368,8 +368,8 @@ Options:
     </entry>
     <entry>
         <title type="html"><![CDATA[Markdown]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//markdown</id>
-        <link href="https://chrgrd1818.github.io/squido-app//markdown"/>
+        <id>https://chrgrd1818.github.io/squido-app/markdown</id>
+        <link href="https://chrgrd1818.github.io/squido-app/markdown"/>
         <updated>2021-03-04T18:55:00.000Z</updated>
         <summary type="html"><![CDATA[Getting started with the squido markdown format]]></summary>
         <content type="html"><![CDATA[<p><code>squido</code> uses <a href="http://spec.commonmark.org/">CommonMark</a> spec to process the markdown formatted posts.</p>
@@ -484,8 +484,8 @@ Table          | Contents
     </entry>
     <entry>
         <title type="html"><![CDATA[Templates]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//templates</id>
-        <link href="https://chrgrd1818.github.io/squido-app//templates"/>
+        <id>https://chrgrd1818.github.io/squido-app/templates</id>
+        <link href="https://chrgrd1818.github.io/squido-app/templates"/>
         <updated>2021-03-03T18:55:00.000Z</updated>
         <summary type="html"><![CDATA[Getting started with the squido templating]]></summary>
         <content type="html"><![CDATA[<p>Templates use <a href="https://handlebarsjs.com">Handlebars</a> formatting and the <code>{{}}</code> syntax or <a href="https://github.com/mde/ejs">EJS</a>. This guide will show <code>Handlebars</code> formatting. Documentation on changing the <code>templateEngine</code> can be found <a href="https://docs.squido.org/configuration/">here</a>.</p>
@@ -639,8 +639,8 @@ Documentation on changing the <code>templateEngine</code> can be found <a href="
     </entry>
     <entry>
         <title type="html"><![CDATA[Sitemap and Feeds]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//sitemap-and-feeds</id>
-        <link href="https://chrgrd1818.github.io/squido-app//sitemap-and-feeds"/>
+        <id>https://chrgrd1818.github.io/squido-app/sitemap-and-feeds</id>
+        <link href="https://chrgrd1818.github.io/squido-app/sitemap-and-feeds"/>
         <updated>2021-03-02T18:55:00.000Z</updated>
         <summary type="html"><![CDATA[Getting started with the squido sitemap and feeds]]></summary>
         <content type="html"><![CDATA[<p>A website sitemap is automatically built and can be found at <code>/sitemap.xml</code>. Eg: <code>example.com/sitemap.xml</code></p>
@@ -654,8 +654,8 @@ Documentation on changing the <code>templateEngine</code> can be found <a href="
     </entry>
     <entry>
         <title type="html"><![CDATA[Plugins]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//plugins</id>
-        <link href="https://chrgrd1818.github.io/squido-app//plugins"/>
+        <id>https://chrgrd1818.github.io/squido-app/plugins</id>
+        <link href="https://chrgrd1818.github.io/squido-app/plugins"/>
         <updated>2021-03-01T18:53:00.000Z</updated>
         <summary type="html"><![CDATA[Getting started with the squido plugins]]></summary>
         <content type="html"><![CDATA[<p>Plugins can be created for if core functionality is not included or customisation is required. Plugins run at the final step of the build so you can override any of the existing steps if needed.</p>
@@ -690,8 +690,8 @@ Documentation on changing the <code>templateEngine</code> can be found <a href="
     </entry>
     <entry>
         <title type="html"><![CDATA[Import content]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//import-content</id>
-        <link href="https://chrgrd1818.github.io/squido-app//import-content"/>
+        <id>https://chrgrd1818.github.io/squido-app/import-content</id>
+        <link href="https://chrgrd1818.github.io/squido-app/import-content"/>
         <updated>2021-02-28T18:53:00.000Z</updated>
         <summary type="html"><![CDATA[Getting started with the importing content]]></summary>
         <content type="html"><![CDATA[<p><code>squido</code> allows the importing of content from <a href="https://ghost.org/">Ghost</a> and <a href="https://wordpress.org/">Wordpress</a>.</p>
@@ -726,8 +726,8 @@ Documentation on changing the <code>templateEngine</code> can be found <a href="
     </entry>
     <entry>
         <title type="html"><![CDATA[Deployment and hosting]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//deployment-and-hosting</id>
-        <link href="https://chrgrd1818.github.io/squido-app//deployment-and-hosting"/>
+        <id>https://chrgrd1818.github.io/squido-app/deployment-and-hosting</id>
+        <link href="https://chrgrd1818.github.io/squido-app/deployment-and-hosting"/>
         <updated>2021-02-27T18:52:00.000Z</updated>
         <summary type="html"><![CDATA[Getting started with deploying and hosting your squido website. Deployment guides using Netlify, Github Pages, AWS Amplify, Cloudflare Pages, Digitalocean app and more]]></summary>
         <content type="html"><![CDATA[<h2 id="netlify">Netlify</h2>
@@ -860,8 +860,8 @@ Documentation on changing the <code>templateEngine</code> can be found <a href="
     </entry>
     <entry>
         <title type="html"><![CDATA[Admin editor]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//admin-editor</id>
-        <link href="https://chrgrd1818.github.io/squido-app//admin-editor"/>
+        <id>https://chrgrd1818.github.io/squido-app/admin-editor</id>
+        <link href="https://chrgrd1818.github.io/squido-app/admin-editor"/>
         <updated>2021-02-26T18:52:00.000Z</updated>
         <summary type="html"><![CDATA[squido admin allows you to edit your website content straight from your browser. You can create, edit and delete posts without using a text editor.]]></summary>
         <content type="html"><![CDATA[<p>The <code>squido</code> admin panel is accessible after running the <a href="https://docs.squido.org/usage-commands/#serve-command">serve</a>.</p>
@@ -876,8 +876,8 @@ Documentation on changing the <code>templateEngine</code> can be found <a href="
     </entry>
     <entry>
         <title type="html"><![CDATA[Post build tasks]]></title>
-        <id>https://chrgrd1818.github.io/squido-app//post-build-tasks</id>
-        <link href="https://chrgrd1818.github.io/squido-app//post-build-tasks"/>
+        <id>https://chrgrd1818.github.io/squido-app/post-build-tasks</id>
+        <link href="https://chrgrd1818.github.io/squido-app/post-build-tasks"/>
         <updated>2021-02-25T18:52:00.000Z</updated>
         <summary type="html"><![CDATA[Getting started with the squido post build tasks]]></summary>
         <content type="html"><![CDATA[<p>Post build tasks are tasks which run after the website is built. You can configure zipping up your website, automatic deployment etc to make deploying your website faster. See <a href="/configuration/">configuration</a> for information on configuring a task.</p>
